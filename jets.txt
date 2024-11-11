@@ -1,0 +1,5 @@
+cargo,C-130 Hercules,370,2360,14000000.0
+fighter,F-16 Fighting Falcon,580,2000,17800000.0
+cargo,Airbus Beluga,537,1727,193000000.0
+fighter,F-22 Raptor,1350,1800,191000000.0
+passenger,Gulfstream V,675,7500,10000000.0
