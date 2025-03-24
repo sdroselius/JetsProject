@@ -10,9 +10,6 @@ import com.skilldistillery.jets.entities.Jet;
 
 public class JetsApplication {
 	
-	// NO Jet collection in the app class!
-	// ONLY an AirField
-	
 	private AirField airField = new AirField();
 	private static Scanner scanner;
 
